@@ -14,7 +14,8 @@ Startup engineering is all about weighing the return on investment that various 
 
 ### Introduction
 
-What Makes A Great Notification System • Notification Systems Are *Really* Hard
+- What Makes A Great Notification System 
+- Notification Systems Are *Really* Hard
 
 
 ### End User Experience Requirements
