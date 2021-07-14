@@ -6,9 +6,7 @@
 
 This guide is designed to be a comunity resource to assist startup engineers in building out their notification system. 
 
-**notification** *no·ti·fi·ca·tion* <br>
-noun <br>
-#### any application-to-user communication. 
+notification: any application-to-user communication
 
 <hr>
 
