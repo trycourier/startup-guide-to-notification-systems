@@ -14,32 +14,19 @@ Startup engineering is all about weighing the return on investment that various 
 
 ### Introduction
 
-#### What Makes A Great Notification System
-#### Notification Systems Are *Really* Hard
+What Makes A Great Notification System • Notification Systems Are *Really* Hard
 
 
 ### End User Experience Requirements
 
-#### Right User
-#### Right Message
-#### Right Frequency
-#### Right Channel
-#### Right Time
+Right User • Right Message • Right Frequency • Right Channel • Right Time
 
 ### Internal User Experience Requirements
 
-#### API First
-#### Great Documentation
-#### Data/Analytics
-#### Robust Logs
-#### Editing & Designing Notifications
-#### Provider Abstraction
-#### Centralization
+API First • Great Documentation • Data/Analytics • Robust Logs •Editing & Designing Notifications • Provider Abstraction • Centralization
 
 
 ### Technical Requirements
-#### Reliability
-#### Deliverability
-#### Scalability
+Reliability • Deliverability • Scalability
 
 ## Contributing
