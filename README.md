@@ -12,7 +12,7 @@ Startup engineering is all about weighing the return on investment that various 
 
 ## Table Of Contents
 
-###Introduction
+### Introduction
 
 #### What Makes A Great Notification System
 #### Notification Systems Are *Really* Hard
