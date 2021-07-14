@@ -1,5 +1,5 @@
 # End User Experience Requirements
-![Intro Illustration](../img/end-user-experience.jpg.jpg?raw=true)
+![Intro Illustration](img/introduction.jpg?raw=true)
 
 ## Right User
 Ensuring that your notifications are going out to the right user is table stakes.  Ensuring that your user events are properly wired up with the relevant data associated with them is the most important piece to getting this right.
