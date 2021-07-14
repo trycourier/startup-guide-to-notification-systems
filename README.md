@@ -8,6 +8,25 @@ This guide is designed to be a comunity resource to assist startup engineers in 
 
 notification: any application-to-user communication
 
+Startup engineering is all about weighing the return on investment that various efforts will yield in order to decide where to spend your precious development time. Depending on the maturity of your startup, and complexity of your notification use cases, some parts of this guide may be more useful to you than others. This guide aims to give you the information you need to make the best actitectural choices based on your particular maturity and requirements.
+
+## Contributing
+
 <hr>
 
-Startup engineering is all about weighing the return on investment that various efforts will yield in order to decide where to spend your precious development resources. Depending on the stage of your startup, your goal may be finding product market fit, solidifying product market fit, or expanding and scaling product market fit. Whatever stage you’re at, you will have at least a couple of use cases in which your software needs to communicate with your users. It may be tempting to write off this computer-to-human communication as a trivial notification, but it’s important to recognize that this is a core part of your user experience and likely a key point of user engagement for your application. 
+## Table Of Contents
+
+#### What Makes A Great Notification System
+
+#### Notification Systems Are *Really* Hard
+
+#### Notification Systems Are *Really* Hard
+
+
+### End User Experience Requirements
+## Right User
+## Right Message
+## Right Frequency
+## Right Channel
+## Right Time
+
