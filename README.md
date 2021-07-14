@@ -12,14 +12,14 @@ Startup engineering is all about weighing the return on investment that various 
 
 ## Table Of Contents
 
+###Introduction
+
 #### What Makes A Great Notification System
-
-#### Notification Systems Are *Really* Hard
-
 #### Notification Systems Are *Really* Hard
 
 
 ### End User Experience Requirements
+
 #### Right User
 #### Right Message
 #### Right Frequency
@@ -27,6 +27,7 @@ Startup engineering is all about weighing the return on investment that various 
 #### Right Time
 
 ### Internal User Experience Requirements
+
 #### API First
 #### Great Documentation
 #### Data/Analytics
