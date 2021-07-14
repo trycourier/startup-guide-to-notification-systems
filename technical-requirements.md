@@ -17,5 +17,8 @@ When it comes to notification systems, deliverability is essential. A message th
 
 | Channel      | Email | SMS      | Mobile Push  | In App      | Slack/Chat |
 | -----------  | ----------- | ----------- | ----------- | ----------- | ----------- |
-
+| Optimization      | - SPF, DKIM, and DMARC need to be in place to avoid spam filters
+-  cross-client email testing/preview
+| SMS      | Mobile Push  | In App      | Slack/Chat |
+| Tracking      | Email | SMS      | Mobile Push  | In App      | Slack/Chat |
 
