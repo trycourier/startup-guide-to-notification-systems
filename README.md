@@ -21,7 +21,7 @@ The explosion in communication APIs has made the engineering work required to se
 
 So what does a great notification system look like? Luckily many startups that were founded in the cloud era, but are now large public companies with plenty of resources to perfect their notifications have shared their system architecture publicly. LinkedIn, AirBnB, Slack, and others have shared their approach to building out their product notifications, and they all come down to the same common goal: deliver the right message, through the right channel, to the right users, at the right time. Building a system that accomplishes this goal requires careful consideration around your end user experience requirements, internal user experience requirements, and your technical requirements. 
 
-![Intro Illustration](img/slack-diagram.jpeg?raw=true)
+![Slack Arcitectural Diagram](img/slack-diagram.jpeg?raw=true)
 
 ## Table Of Contents
 
