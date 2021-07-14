@@ -17,8 +17,8 @@ When it comes to notification systems, deliverability is essential. A message th
 
 | Channel      | Email | SMS      | Mobile Push  | In App      | Slack/Chat |
 | -----------  | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Optimization      | - SPF, DKIM, and DMARC need to be in place to avoid spam filters
--  cross-client email testing/preview
-| SMS      | Mobile Push  | In App      | Slack/Chat |
+| Optimization      | - SPF, DKIM, and DMARC need to be in place to avoid spam filters -  cross-client email testing/preview <br>| - If you are sending at scale you need to use multiple numbers to ensure you’re not blocked by the provider <br>- Regional pricing varies greatly, vendor support for various regions varies as well
+ | - Typically as your volume of mobile push notifications goes up deliverability will go down as users will revoke push permissions <br> - Best thing you can do here is to make each notification as useful and timely as possible <br> - You can optimize the process of asking for permission but not actual deliverability <br> - iOS is introducing message batching this fall which will change the UX of iPhone push notifications (based on ML)
+  | In App      | Slack/Chat |
 | Tracking      | Email | SMS      | Mobile Push  | In App      | Slack/Chat |
 
