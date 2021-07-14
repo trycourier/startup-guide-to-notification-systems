@@ -24,9 +24,9 @@ Startup engineering is all about weighing the return on investment that various 
 
 
 ### End User Experience Requirements
-## Right User
-## Right Message
-## Right Frequency
-## Right Channel
-## Right Time
+#### Right User
+#### Right Message
+#### Right Frequency
+#### Right Channel
+#### Right Time
 
