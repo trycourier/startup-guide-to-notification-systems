@@ -31,28 +31,27 @@ So what does a great notification system look like? Luckily many startups that w
 - [Notification Systems Are *Really* Hard](https://github.com/trycourier/startup-guide-to-notification-systems#notification-systems-are-really-hard)
 
 
-### End User Experience Requirements
+### [End User Experience Requirements](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md)
 
-- Right User 
-- Right Message 
-- Right Frequency 
-- Right Channel 
-- Right Time
+- [Right User]
+- [Right Message](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md)
+- [Right Frequency](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-frequency)
+- [Right Channel](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-channel)
+- [Right Time](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-time)
 
 ### Internal User Experience Requirements
 
-- API First 
-- Great Documentation 
-- Data/Analytics 
-- Robust Logs 
-- Editing & Designing Notifications 
-- Provider Abstraction 
-- Centralization
+- [API First](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#api-first)
+- [Great Documentation](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#great-documentation)
+- [Data/Analytics](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#great-documentation)
+- [Robust Logs](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#robust-logs)
+- [Editing & Designing Notifications](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#editing--designing-notifications)
+- [Provider Abstraction](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#provider-abstraction)
+- [Centralization](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#centralization)
 
 
 ### Technical Requirements
-- Reliability 
-- Deliverability 
-- Scalability
+- [Reliability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#centralization) 
+- [Deliverability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/technical-requirements.md#deliverability)
+- [Scalability]()
 
-## Contributing
