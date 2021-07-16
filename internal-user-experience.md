@@ -37,5 +37,5 @@ Abstracting the underlying email/SMS/push providers has several benefits. First 
 ## Centralization
 As your product and engineering team scales, there will inevitably be different product teams with different focuses. Allowing every team to use the same notification system will not only help with your product velocity but will create a more consistent user experience for your users across the different areas of your product.
 
-*Example: If your backend engineering team is using one system to create notifications and your growth engineering team is using another it will be nearly impossible to avoid a disjointed UX as well as tech debt associated with the different systems. *
+*Example: If your backend engineering team is using one system to create notifications and your growth engineering team is using another it will be nearly impossible to avoid a disjointed UX as well as tech debt associated with the different systems.*
 
