@@ -53,5 +53,5 @@ So what does a great notification system look like? Luckily many startups that w
 ### [Technical Requirements](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/technical-requirements.md)
 - [Reliability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#centralization) 
 - [Deliverability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/technical-requirements.md#deliverability)
-- [Scalability]()
+- [Scalability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md)
 
