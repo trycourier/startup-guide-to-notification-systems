@@ -8,7 +8,7 @@
 
 ### [Introduction](https://github.com/trycourier/startup-guide-to-notification-systems#introduction)
 
-- [What Makes A Great Notification System](https://github.com/trycourier/startup-guide-to-notification-systems#what-makes-a-great-notification-system) 
+- [What Makes A Great Notification System?](https://github.com/trycourier/startup-guide-to-notification-systems#what-makes-a-great-notification-system) 
 - [Notification Systems Are *Really* Hard](https://github.com/trycourier/startup-guide-to-notification-systems#notification-systems-are-really-hard)
 
 
@@ -40,7 +40,7 @@
 
 Startup engineering is all about weighing the return on investment that various efforts will yield in order to decide where to spend your precious development time. Depending on the maturity of your startup, and complexity of your notification use cases, some parts of this guide may be more useful to you than others. This guide aims to give you the information you need to make the best actitectural choices based on your particular maturity and requirements.
 
-### What Makes A Great Notification System
+### What Makes A Great Notification System?
 There are three core components to a great notification system. The first is that it provides a fantastic user experience to the end user. This essentially boils down to delivering the right message, to the right user, with the right frequency, via the right channel, at the right time. A notification system that accomplishes this will delight your users and make your product more successful. 
 
 The second part to a great notification system is that it is easy to use and empowering to your internal team. For technical users that means having great developer tooling and documentation. For non-technical users that means having an intuitive design and editing interface and good visibility as well as useful data and analytics.
