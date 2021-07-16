@@ -33,13 +33,13 @@ So what does a great notification system look like? Luckily many startups that w
 
 ### [End User Experience Requirements](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md)
 
-- [Right User]
+- [Right User](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-user)
 - [Right Message](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md)
 - [Right Frequency](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-frequency)
 - [Right Channel](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-channel)
 - [Right Time](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/end-user-experience.md#right-time)
 
-### Internal User Experience Requirements
+### [Internal User Experience Requirements](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md)
 
 - [API First](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#api-first)
 - [Great Documentation](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#great-documentation)
@@ -50,7 +50,7 @@ So what does a great notification system look like? Luckily many startups that w
 - [Centralization](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#centralization)
 
 
-### Technical Requirements
+### [Technical Requirements](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/technical-requirements.md)
 - [Reliability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md#centralization) 
 - [Deliverability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/technical-requirements.md#deliverability)
 - [Scalability]()
