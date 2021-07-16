@@ -27,8 +27,8 @@ So what does a great notification system look like? Luckily many startups that w
 
 ### Introduction
 
-- What Makes A Great Notification System 
-- Notification Systems Are *Really* Hard
+- [What Makes A Great Notification System](https://github.com/trycourier/startup-guide-to-notification-systems#what-makes-a-great-notification-system) 
+- [Notification Systems Are *Really* Hard](https://github.com/trycourier/startup-guide-to-notification-systems#notification-systems-are-really-hard)
 
 
 ### End User Experience Requirements
