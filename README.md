@@ -2,8 +2,6 @@
 
 ![Intro Illustration](img/introduction.jpg?raw=true)
 
-## Introduction
-
 **This guide is designed to be a comunity resource to assist startup engineers in building out their notification system.**
 
 ## Table Of Contents
@@ -38,6 +36,7 @@
 - [Scalability](https://github.com/trycourier/startup-guide-to-notification-systems/blob/main/internal-user-experience.md)
 
 
+## Introduction
 
 Startup engineering is all about weighing the return on investment that various efforts will yield in order to decide where to spend your precious development time. Depending on the maturity of your startup, and complexity of your notification use cases, some parts of this guide may be more useful to you than others. This guide aims to give you the information you need to make the best actitectural choices based on your particular maturity and requirements.
 
